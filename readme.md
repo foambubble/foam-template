@@ -1,8 +1,8 @@
 # Foam
 
-Welcome to your Foam. We've created a few Bubbles (markdown documents) for you. Feel free to use them or delete them. 
+We've created a few Bubbles (markdown documents) to get you started. 
 
-Your Foam, your rules.
+Feel free to use them or delete them. Your Foam, your rules.
 
 - [Inbox](inbox.md) - a place to write down quick notes to be categorised later
 - [Todo](todo.md) - a todo list
