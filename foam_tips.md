@@ -13,6 +13,12 @@ Whether you want to build a [Second Brain](https://www.buildingasecondbrain.com/
 3. Use Foam's shortcuts and autocompletions to link your thoughts together with Markdown links, and navigate between to explore your knowledge graph.
 
 
+## Publishing
+
+New Foams are not published by default. To publish your Foam, go to [repository settings](settings) and enable GitHub Pages on the default branch.
+
+If you don't like GitHub pages, you're free to set up any other deployment mechanism of your choosing.
+
 ## Useful commands
 
 TODO
