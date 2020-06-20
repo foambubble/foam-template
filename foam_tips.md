@@ -15,7 +15,7 @@ Whether you want to build a [Second Brain](https://www.buildingasecondbrain.com/
 
 ## Publishing
 
-New Foams are not published by default. To publish your Foam, go to [repository settings](settings) and enable GitHub Pages on the default branch.
+New Foams are not published by default. To publish your Foam,enable GitHub Pages on the default branch in repository settings.
 
 If you don't like GitHub pages, you're free to set up any other deployment mechanism of your choosing.
 
