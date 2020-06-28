@@ -21,8 +21,8 @@ To learn more about how to use **Foam**, read the [Recipes](https://foambubble.g
 We've created a few Bubbles (markdown documents) to get you started.
 
 - [[inbox]] - a place to write down quick notes to be categorised later
-- [[foam-tips]] - tips to get the most out of your foam
-- [[todo]] - a place 
+- [[foam-tips]] - tips to get the most out of your Foam workspace
+- [[todo]] - a place to keep track of things to do
 
 ## Note on `[[wiki-links]]`
 
