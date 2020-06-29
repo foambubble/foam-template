@@ -7,5 +7,7 @@
   "workbench.colorTheme": "Gray Matter Light",
   "[markdown]": {
     "editor.quickSuggestions": true
-  }
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync"
 }
