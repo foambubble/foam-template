@@ -25,6 +25,9 @@
     "tchayen.markdown-links",
 
     // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    "philipbe.theme-gray-matter",
+    
+    // Mermaid diagrams support for VSCode
+    "bierner.markdown-mermaid"
   ]
 }
