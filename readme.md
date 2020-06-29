@@ -26,7 +26,7 @@ We've created a few Bubbles (markdown documents) to get you started.
 
 ## Note on `[[wiki-links]]`
 
-⚠️ Until [foambubble/foam#3](https://github.com/foambubble/foam/issues/3) is resolved, `[[wiki-links]]` links (like the links above) won't work in the GitHub Markdown preview (i.e. this Readme on github.com). 
+⚠️ Until [foambubble/foam#16](https://github.com/foambubble/foam/issues/16) is resolved, `[[wiki-links]]` links (like the links above) won't work in the GitHub Markdown preview (i.e. this Readme on github.com). 
 
 They should work as expected in VS Code, and in rendered GitHub Pages.
 
