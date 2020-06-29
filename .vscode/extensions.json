@@ -11,16 +11,12 @@
     // GitLens for seeing version history inline
     "eamodio.gitlens",
 
-    // Git Automator for quick commit and push
-    // (Could be improved)
-    "ivangabriele.vscode-git-add-and-commit",
-
     // Tons of markdown goodies (lists, tables of content, so much more)
     "yzhang.markdown-all-in-one",
 
     // [[wiki-links]], backlinking etc
     "kortina.vscode-markdown-notes",
-    
+
     // Adds `show graph` command that displays graph of linked notes
     "tchayen.markdown-links",
 
