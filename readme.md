@@ -10,7 +10,7 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
 3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
 
-   ⚠️ *Open the repository as a folder. In VS Code, opening a workspace refers to [multi-root workspaces](https://code.visualstudio.com/docs/editor/multi-root-workspaces).*
+    *Open the repository as a folder using the `File > Open...` menu item. In VS Code, "open workspace" refers to [multi-root workspaces](https://code.visualstudio.com/docs/editor/multi-root-workspaces).*
 
 4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
 
