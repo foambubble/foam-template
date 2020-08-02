@@ -3,6 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
+  "workbench.colorTheme": "Gray Matter Light",
   "window.autoDetectColorScheme": true,
   "workbench.preferredLightColorTheme": "Gray Matter Light",
   "workbench.preferredDarkColorTheme": "Gray Matter Dark",
