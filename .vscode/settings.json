@@ -8,5 +8,6 @@
     "editor.quickSuggestions": true
   },
   "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync"
+  "git.postCommitCommand": "sync",
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
 }
