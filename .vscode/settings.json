@@ -12,4 +12,5 @@
   "files.exclude": {
     "**/node_modules": true,
   },
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
 }
