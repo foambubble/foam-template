@@ -16,5 +16,6 @@
     "**/node_modules": true
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "foam.edit.linkReferenceDefinitions": "withExtensions"
 }
