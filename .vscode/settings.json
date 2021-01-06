@@ -1,4 +1,5 @@
 {
+  "prettier.singleQuote": false,
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
