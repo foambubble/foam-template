@@ -21,4 +21,6 @@
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
+
+  "pasteImage.path": "${currentFileDir}/images/${currentFileNameWithoutExt}"
 }
