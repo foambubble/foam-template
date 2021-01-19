@@ -19,6 +19,8 @@ Let's go through this to set up your repo:
   - **tip** - Foam will sync links and definitions  whenever you save the file
   - **tip** - If you are just using foam in VsCode you can turn off wikilink definitions in your VsCode settings
 
+- [ ] You can also paste images in your Foam, just press `cmd+alt+v` to create the image file and link to it from your note
+
 - [ ] Want to see how to manage your tasks? Go to the [[todo]] note
 
 - [ ] To explore all the Foam settings, press `cmd+,`, then `Extensions > Foam`
