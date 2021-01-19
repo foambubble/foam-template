@@ -17,9 +17,6 @@
     // [[wiki-links]], backlinking etc
     "kortina.vscode-markdown-notes",
 
-    // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter",
-
     // Image-pasting for markdown
     "mushan.vscode-paste-image"
   ]
