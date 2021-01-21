@@ -5,9 +5,6 @@
     // Foam's own extension
     "foam.foam-vscode",
 
-    // Prettier for auto formatting code
-    "esbenp.prettier-vscode",
-
     // Tons of markdown goodies (lists, tables of content, so much more)
     "yzhang.markdown-all-in-one",
 
