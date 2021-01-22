@@ -14,6 +14,8 @@ Let's go through this to set up your repo:
 
 - [ ] #tags can be used to further organize your content. Look at the `Tag Explorer` view on the left panel to find and navigate the tags in your knowledge base. See [[tags-and-tag-explorer]].
 
+- [ ] Foam supports [[spell-checking]].
+
 - [ ] You can also paste images in your Foam, just press `cmd+alt+v` to create the image file and link to it from your note. See [[paste-images-from-clipboard]].
 
 - [ ] You can use Foam for your daily notes, or journaling. Execute now the `Foam: Open Daily Note` command to create a new file in your `journal` folder. See [[daily-notes]].
@@ -49,6 +51,7 @@ A special mention to [Markdown Links](https://marketplace.visualstudio.com/items
 [inbox]: inbox.md "Inbox"
 [graph-visualization]: docs/features/graph-visualization.md "Graph Visualization"
 [tags-and-tag-explorer]: docs/features/tags-and-tag-explorer.md "Tags and Tag Explorer"
+[spell-checking]: docs/features/spell-checking.md "Spell Checking"
 [paste-images-from-clipboard]: docs/how-to/paste-images-from-clipboard.md "Paste Images from Clipboard"
 [daily-notes]: docs/features/daily-notes.md "Daily Notes"
 [todo]: todo.md "Todo"
