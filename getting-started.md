@@ -42,6 +42,7 @@ Here they are:
 - [Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes)
 - [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image)
+- [spellright](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
 
 A special mention to [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links), which has now been replaced by our graph but was foundational to Foam's beginnings.
 
