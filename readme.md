@@ -1,7 +1,8 @@
+<img src="attachments/foam-icon.png" width=100 align="left">
+
 # Foam
 
-| ![logo](attachments/foam-icon.png) | 👋 Welcome to your new Foam Knowledge Base! |
-| ---------------------------------- | ------------------------------------------- |
+**👋 Welcome to your new Foam Knowledge Base!**
 
 ## Getting started
 
