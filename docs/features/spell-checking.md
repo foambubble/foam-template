@@ -13,4 +13,4 @@ You can configure the extension in the settings, for example to:
 For more information go to the [Spellright extension page](https://marketplace.visualstudio.com/items?itemName=ban.spellright).
 
 There are many spell checking extensions for VsCode.
-Another one of our favorites is [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex&ssr=false#review-details), which is a bit heavier but offers some extra functionality.
+Another one of our favorites is [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex&ssr=false#overview), which is a bit heavier but offers some extra functionality.
