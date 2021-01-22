@@ -1,5 +1,4 @@
 {
-  "prettier.singleQuote": false,
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
@@ -7,8 +6,6 @@
   "[markdown]": {
     "editor.quickSuggestions": true
   },
-  "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync",
   "files.defaultLanguage": "markdown",
   "files.exclude": {
     "**/node_modules": true
@@ -16,11 +13,17 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
-  "pasteImage.path": "${currentFileDir}/images/${currentFileNameWithoutExt}",
-  "markdown.preview.breaks": true
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "markdown.preview.breaks": true,
+  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "prettier.singleQuote": false,
+  "spellright.notificationClass": "warning",
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "window.autoDetectColorScheme": true,
 }
