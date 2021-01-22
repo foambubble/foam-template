@@ -1,5 +1,7 @@
 # Foam
 
+![logo](attachments/foam-icon.png)
+
 👋 Welcome to your new Foam Knowledge Base!
 
 ## Getting started
