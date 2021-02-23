@@ -37,7 +37,7 @@ The following properties can be used:
   "foam.openDailyNote.titleFormat": "'Journal Entry, ' dddd, mmmm d",
 ```
 
-The above configuration would create a file `journal/note-2020-07-25.mdx`, with the heading `Journal Entry, Sunday, July 25`.
+The above configuration would create a file `journal/daily-note-2020-07-25.mdx`, with the heading `Journal Entry, Sunday, July 25`.
 
 
 
