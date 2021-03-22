@@ -7,6 +7,7 @@ Try it out, run the `Foam: Open Daily Note` command.
 ## Shortcuts and Snippets
 
 You can quickly open today's daily note by pressing `alt+d`.
+You can also automatically open today's note via the `Foam › Open Daily Note: On Startup` setting.
 
 You can also quickly create link to your daily notes, in the configured format, using [snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
 
@@ -38,7 +39,4 @@ The following properties can be used:
 ```
 
 The above configuration would create a file `journal/daily-note-2020-07-25.mdx`, with the heading `Journal Entry, Sunday, July 25`.
-
-
-
 
