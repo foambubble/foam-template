@@ -1,6 +1,6 @@
 # Getting started with VsCode
 
-VsCode is an powerful text editor, hidden behind a simple interface.
+VsCode is a powerful text editor, hidden behind a simple interface.
 
 ## Keyboard shortcuts
 VsCode supports various **keyboard shortcuts**, the most important for us are:
