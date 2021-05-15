@@ -13,5 +13,8 @@
 
     // Spell checking for text, markdown and latex
     "ban.spellright",
+
+    // For creating linked notes with [[page]]
+    "kortina.vscode-markdown-notes"
   ]
 }
