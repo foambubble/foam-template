@@ -31,7 +31,7 @@ A sample configuration object is provided below, you can provide as many or as l
 ```
 
 - `note` defines the color for regular nodes
-- `placeholder` defines the color for links that don't match any existing note. This is a [[placeholder]] because no file with such name exists (see [[wiki-links]] for more info).
+- `placeholder` defines the color for links that don't match any existing note. This is a [[placeholder]] because no file with such name exists (see [[wikilinks]] for more info).
 - `feature` shows an example of how you can use note types to customize the graph. It defines the color for the notes of type `feature`
   - see [[note-properties]] for details
   - you can have as many types as you want
