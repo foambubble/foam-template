@@ -22,7 +22,7 @@ Let's go through this to set up your repo:
 
 - [ ] Want to see how to manage your tasks? Go to the [[todo]] note
 
-- [ ] The section at the end of this file contains wikilink definitions, which enable navigation of your notes from GitHub's web UI, and in general to make `[[wikilinks]]` understood by any markdown parser. See [[link-reference-definitions]].
+- [ ] The section at the end of this file contains wikilink definitions, which enable navigation of your notes from GitHub's web UI, and in general to make `[[wikilinks]]` understood by any Markdown parser. See [[link-reference-definitions]].
 
 - [ ] To explore all the Foam settings, press `cmd+,`, then `Extensions > Foam`
 
