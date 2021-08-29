@@ -11,7 +11,7 @@ At the top of the file you can have a section where you define your properties.
 
 For example, for this file, we have:
 
-```
+```text
 ---
 type: feature
 keywords: hello world
