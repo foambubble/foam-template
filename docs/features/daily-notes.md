@@ -31,6 +31,7 @@ You get the idea ;)
 
 It's possible to customize path and heading of your daily notes, by following the [dateformat masking syntax](https://github.com/felixge/node-dateformat#mask-options).
 The following properties can be used:
+
 ```json
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
@@ -39,4 +40,3 @@ The following properties can be used:
 ```
 
 The above configuration would create a file `journal/daily-note-2020-07-25.mdx`, with the heading `Journal Entry, Sunday, July 25`.
-
