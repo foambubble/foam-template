@@ -20,11 +20,11 @@ After setting up the repository, head to [[getting-started]] to get familiar wit
 
 To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/recipes/recipes) bubbles of the Foam documentation workspace.
 
-And remember that you can always join our  [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
+And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
 
 ## Using Foam
 
-We've created a few Bubbles (markdown documents) to get you started.
+We've created a few Bubbles (Markdown documents) to get you started.
 
 - [[inbox]] - a place to write down quick notes to be categorized later
 - [[getting-started]] - learn how to use your Foam workspace
