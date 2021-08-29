@@ -9,10 +9,13 @@ This feature is disabled by default because you don't need it to navigate your w
 ## Example
 
 The following example:
+
   ```md
   - [[graph-visualization]]
   ```
+
 ...generates the following link reference definitions to the bottom of the file:
+
   ```md
   [graph-visualization]: graph-visualization "Graph Visualization"
   ```
@@ -20,9 +23,9 @@ The following example:
 ## Configuration
 
 You can use the `foam.edit.linkReferenceDefinitions` to configure the definitions (see [[get-started-with-vscode]]):
+
 - `withoutExtensions` (default): this works better with certain web publishing tools (e.g. GitHub pages)
 - `withExtensions`: this works better with standard markdown-based tools (e.g GitHub web UI)
 - `off`: this disables the generation of definitions
 
 After changing the setting in your workspace, you can run the `Foam: Run Janitor (Experimental)` command to convert all existing definitions.
-
