@@ -2,7 +2,7 @@
 
 When you use `[[wiki-links]]`, the [foam-vscode](https://github.com/foambubble/foam/tree/master/packages/foam-vscode) extension can generate [Markdown Link Reference Definitions](https://spec.commonmark.org/0.29/#link-reference-definitions) at the bottom of the file.
 
-This is done to make the content of the file compatible with various Markdown tools (e.g. parsers, static site generators, VS code plugins etc), which don't support `[[wiki-links]]` directly.
+This is done to make the content of the file compatible with various Markdown tools (e.g. parsers, static site generators, VS code plugins etc.), which don't support `[[wiki-links]]` directly.
 
 This feature is disabled by default because you don't need it to navigate your workspace, it is useful for publishing and compatibility of your notes.
 
