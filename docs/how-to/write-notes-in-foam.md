@@ -5,13 +5,14 @@ Notes are simple text files with some extra flavor, in the shape of Markdown syn
 ## Foam Syntax
 
 Foam uses standard markdown, with a few added twists:
+
 - the title of a note (e.g. in the [[graph-visualization]]) is given by precedence based on:
   - the `title` property (see [[note-properties]])
   - the first `# heading 1`  of the file
   - the file name
 
-
 ## Markdown Syntax
+
 With markdown we can style our notes in a simple way, while keeping the document a simple text file (the best way to future-proof your writings!).
 
 You can see the formatted output by running the `Markdown: Open Preview to the Side` command.
@@ -61,8 +62,8 @@ This is a table:
 | R2C1     | R2C2     |
 
 You can `inline code` or
+
 ```
 you can create
 code blocks
 ```
-
