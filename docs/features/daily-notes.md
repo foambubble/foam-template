@@ -18,7 +18,7 @@ You can also write:
 | ------------ | ------------- |
 | `/tomorrow`  | tomorrow      |
 | `/yesterday` | yesterday     |
-| `/monday`    | next monday   |
+| `/monday`    | next Monday   |
 | `/+1d`       | tomorrow      |
 | `/-3d`       | 3 days ago    |
 | `/+1w`       | in a week     |
