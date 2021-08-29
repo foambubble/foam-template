@@ -41,10 +41,10 @@ Let's go through this to set up your repo:
 Foam doesn't do all this magic on its own, it relies on some amazing extensions. Look at their documentation if you want to fully unlock the possibilities!
 
 Here they are:
+
 - [Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes)
 - [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image)
 - [spellright](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
 
 A special mention goes to [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links), which has now been replaced by our graph but was foundational to Foam's beginnings.
-
