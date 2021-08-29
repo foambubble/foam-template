@@ -6,6 +6,7 @@ Misspelled words are highlighted, like hellow.
 You can place the cursor on top of the word, and press `cmd+.` for suggestions on how to fix the problem.
 
 You can configure the extension in the settings, for example to:
+
 - ignore certain files
 - change the language(s)
 - and much more
