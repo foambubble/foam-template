@@ -1,9 +1,9 @@
-# Getting started with VsCode
+# Getting started with VS Code
 
-VsCode is a powerful text editor, hidden behind a simple interface.
+VS Code is a powerful text editor, hidden behind a simple interface.
 
 ## Keyboard shortcuts
-VsCode supports various **keyboard shortcuts**, the most important for us are:
+VS Code supports various **keyboard shortcuts**, the most important for us are:
 
 | Shortcut      | Action                       |
 | ------------- | ---------------------------- |
@@ -13,10 +13,10 @@ VsCode supports various **keyboard shortcuts**, the most important for us are:
 | `cmd+P`       | use quickpick to open a file |
 | `cmd+shift+P` | invoke a command (see below) |
 
-For more information, see the [vscode keyboard cheat sheets](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference), where you can also see how to customize your keybindings.
+For more information, see the [VS Code keyboard cheat sheets](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference), where you can also see how to customize your keybindings.
 
 ## Commands
-Commands make VsCode extremely powerful.
+Commands make VS Code extremely powerful.
 
 To invoke a command, press `cmd+shift+P` and select the command you want to execute.
 For example, to see the Foam graph:
@@ -26,10 +26,10 @@ For example, to see the Foam graph:
 
 And watch the magic unfold.
 
-For more information on commands, see [commands on the VsCode site](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette).
+For more information on commands, see [commands on the VS Code site](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette).
 
 
-If you want to learn more about VsCode, check out their [website](https://code.visualstudio.com/docs#first-steps).
+If you want to learn more about VS Code, check out their [website](https://code.visualstudio.com/docs#first-steps).
 
 ## Panels
 
@@ -39,5 +39,5 @@ You can see a few panels on the left, including:
 
 ## Settings
 
-To view or change the settings in VsCode, press `cmd+,`
+To view or change the settings in VS Code, press `cmd+,`
 

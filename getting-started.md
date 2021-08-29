@@ -6,7 +6,7 @@ Welcome to your new foam workspace, let's get you started.
 
 Let's go through this to set up your repo:
 
-- [ ] if you are new with VsCode, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
+- [ ] if you are new with VS Code, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
 
 - [ ] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wiki link. You can go back with `ctrl+-`. Here, go to your [[inbox]]
 
@@ -26,7 +26,7 @@ Let's go through this to set up your repo:
 
 - [ ] To explore all the Foam settings, press `cmd+,`, then `Extensions > Foam`
 
-- [ ] Living within VsCode, Foam can be customized in many ways! Look at the [Foam Recipes](https://foambubble.github.io/foam/recipes/recipes) for ideas!
+- [ ] Living within VS Code, Foam can be customized in many ways! Look at the [Foam Recipes](https://foambubble.github.io/foam/recipes/recipes) for ideas!
 
 - [ ] Join the [Foam community on Discord](https://foambubble.github.io/join-discord/e), introduce yourself and leave a message on how you found Foam and how the onboarding went :) We are always keen to do better
 
