@@ -63,7 +63,7 @@ This is a table:
 
 You can `inline code` or
 
-```
+```text
 you can create
 code blocks
 ```
