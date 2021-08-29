@@ -14,7 +14,7 @@ With the graph you can:
 
 ## Custom Graph Styles
 
-By default the Foam graph will use the VsCode theme, but it's possible to customize it with the `foam.graph.style` setting.
+By default, the Foam graph will use the VsCode theme, but it's possible to customize it with the `foam.graph.style` setting.
 
 A sample configuration object is provided below, you can provide as many or as little configuration as you wish:
 
