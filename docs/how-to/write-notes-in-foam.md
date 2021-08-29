@@ -8,12 +8,12 @@ Foam uses standard Markdown, with a few added twists:
 
 - the title of a note (e.g. in the [[graph-visualization]]) is given by precedence based on:
   - the `title` property (see [[note-properties]])
-  - the first `# heading 1`  of the file
+  - the first `# heading 1` of the file
   - the file name
 
 ## Markdown Syntax
 
-With Markdown we can style our notes in a simple way, while keeping the document a simple text file (the best way to future-proof your writings!).
+With Markdown, we can style our notes in a simple way, while keeping the document a simple text file (the best way to future-proof your writings!).
 
 You can see the formatted output by running the `Markdown: Open Preview to the Side` command.
 
