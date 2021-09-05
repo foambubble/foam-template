@@ -33,7 +33,7 @@ Here is a high level overview of Markdown, for more information on the Markdown 
 
 This is a [link to google](https://www.google.com).
 
-This is a wiki link (aka internal link) to [[note-properties]].
+This is a wikilink (aka internal link) to [[note-properties]].
 
 Here is an image:
 ![image](../../attachments/foam-icon.png)
