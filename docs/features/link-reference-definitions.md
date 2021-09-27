@@ -4,7 +4,7 @@ When you use `[[wikilinks]]`, the [foam-vscode](https://github.com/foambubble/fo
 
 This is done to make the content of the file compatible with various Markdown tools (e.g. parsers, static site generators, VS code plugins etc), which don't support `[[wikilinks]]` directly.
 
-This feature is enabled by default as it is useful for publishing and compatibility of your notes, but can be disabled because you don't need it to navigate your workspace.
+This feature can be disabled by default (as it's done in the foam-template) because you don't need it to navigate your workspace, it is useful for publishing and compatibility of your notes.
 
 ## Example
 
