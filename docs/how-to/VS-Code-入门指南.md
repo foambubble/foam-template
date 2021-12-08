@@ -1,4 +1,4 @@
-# Getting started with VS Code
+# VS-Code-入门指南
 
 VS Code is a powerful text editor, hidden behind a simple interface.
 

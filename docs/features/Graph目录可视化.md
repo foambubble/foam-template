@@ -1,4 +1,4 @@
-# Graph Visualization
+# Graph目录可视化
 
 Foam comes with a graph visualization of your notes.
 To see the graph execute the `Foam: Show Graph` command.
