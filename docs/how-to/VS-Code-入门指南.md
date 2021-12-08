@@ -1,43 +1,43 @@
 # VS-Code-入门指南
 
-VS Code is a powerful text editor, hidden behind a simple interface.
+VS Code 隐藏在一个简单的界面后面,是一个强大的文本编辑器。
 
-VS Code supports various **keyboard shortcuts**, the most important for us are:
+VS Code 支持各种**快捷键**，对我们来说最重要的是：
 
-| Shortcut      | Action                       |
-| ------------- | ---------------------------- |
-| `cmd+N`       | create a new file            |
-| `cmd+S`       | save the current file        |
-| `cmd+O`       | open a file                  |
-| `cmd+P`       | use quickpick to open a file |
-| `cmd+shift+P` | invoke a command (see below) |
+| 快捷键        | 动作                    |
+| ------------- | ----------------------- |
+| `cmd+N`       | 创建新文件              |
+| `cmd+S`       | 保存当前文件            |
+| `cmd+O`       | 打开一个文件            |
+| `cmd+P`       | 使用 quickpick 打开文件 |
+| `cmd+shift+P` | 调用命令（见下文）      |
 
-For more information, see the [VS Code keyboard cheat sheets](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference), where you can also see how to customize your keybindings.
+有关详细信息，请参阅 [VS Code 快捷键表](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)，你还可以在其中了解如何自定义快捷键。
 
-## Commands
+## 命令
 
-Commands make VS Code extremely powerful.
+命令使 VS Code 非常强大。
 
-To invoke a command, press `cmd+shift+P` and select the command you want to execute.
-For example, to see the Foam graph:
+要调用命令，请输入`cmd+shift+P`并选择要执行的命令。
+例如，要查看泡沫图：
 
-- press `cmd+shift+P`
-- start typing `show graph`
-- select the `Foam: Show Graph` command
+- 输入 `cmd+shift+P`
+- 输入 `show graph`
+- 选择 `Foam: Show Graph` 命令
 
-And watch the magic unfold.
+查看奇迹发生。
 
-For more information on commands, see [commands on the VS Code site](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette).
+有关命令的更多信息，请参阅 [VS Code 命令](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)。 
 
-If you want to learn more about VS Code, check out their [website](https://code.visualstudio.com/docs#first-steps).
+如果你想了解有关 VS Code 的更多信息，请查看他们的 [网站](https://code.visualstudio.com/docs#first-steps)。
 
-## Panels
+## 面板
 
-You can see a few panels on the left, including:
+你可以在左侧看到几个面板，包括：
 
-- `Outline`: this panel shows you the structure of the file based on the headings
-- `Tag Explorer`: This shows you the tags in your workspace, see [[tags-and-tag-explorer]] for more information on tags
+- `Outline`: 此面板根据标题向你显示文件的结构
+- `Tag Explorer`: 这会显示你工作区中的标签，有关标签的更多信息，请参阅 [[Tags标签和标签浏览器]]
 
-## Settings
+## 设置
 
-To view or change the settings in VS Code, press `cmd+,`
+要查看或更改 VS Code 中的设置，请按 `cmd+,`。

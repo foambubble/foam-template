@@ -4,19 +4,19 @@ tags: my-tag1 my-tag2
 
 # Tags标签和标签浏览器
 
-## Tags
+## 标签
 
-You can add tags to your notes to categorize them, or in any way you want.
+你可以在笔记中添加标签以对它们进行分类，或者以任何你想要的方式进行分类。
 
-There are two ways to add tags:
+添加标签有两种方式：
 
-- you can add #tags just by writing them in the note
-- another way is through [[note-properties]], as you can see at the top of this file
+- 你只需将 #tags 写在笔记中即可添加
+- 另一种方法是通过 [[笔记属性]]，如你在此文件的顶部所见
 
-## Tag Explorer
+## 标签浏览器
 
-In the sidebar to the left, you will see a panel called `Tag Explorer`.
+在左侧的边栏中，你将看到一个名为`Tag Explorer`的面板。
 
-You can use this panel to see the tags in your notes, and navigate them.
+你可以使用此面板查看笔记中的标签并导航它们。
 
-Notice `my-tag1` and `my-tag2`, which were added via [[note-properties]].
+请注意 `my-tag1` 和 `my-tag2`，它们是通过 [[笔记属性]] 添加的。

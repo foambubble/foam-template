@@ -1,69 +1,69 @@
-# Writing Notes
+# 写笔记
 
-Notes are simple text files with some extra flavor, in the shape of Markdown syntax and support for extra properties (see [[note-properties]]).
+笔记是带有一些额外风味的简单文本文件，采用 Markdown 语法的形式并支持额外的属性（请参阅 [[笔记属性]]）。
 
-## Foam Syntax
+## Foam 语法
 
-Foam uses standard Markdown, with a few added twists:
+Foam 使用标准 Markdown，并添加了一些改动：
 
-- the title of a note (e.g. in the [[graph-visualization]]) is given by precedence based on:
-  - the `title` property (see [[note-properties]])
-  - the first `# heading 1` of the file
-  - the file name
+- 注释的标题（例如在 [[Graph目录可视化]] 中）由优先级给出，基于：
+  - `title` 属性（见 [[笔记属性]]）
+  - 文件的第一个 `# 一级标题`
+  - 文件名
 
-## Markdown Syntax
+## Markdown 语法
 
-With Markdown, we can style our notes in a simple way, while keeping the document a simple text file (the best way to future-proof your writings!).
+使用 Markdown，我们可以用一种简单的方式来设计我们的笔记，同时将文档保持为一个简单的文本文件（这是让你的作品面向未来的最佳方式！）。
 
-You can see the formatted output by running the `Markdown: Open Preview to the Side` command.
+你可以通过运行`Markdown: Open Preview to the Side`命令来查看格式化的输出。
 
-Here is a high level overview of Markdown, for more information on the Markdown syntax [see here](https://commonmark.org/help/).
+这是 Markdown 的高级概述，有关 Markdown 语法的更多信息 [请参阅此处](https://commonmark.org/help/)。
 
-# Heading 1
+# 一级标题
 
-## Heading 2
+## 二级标题
 
-### Heading 3
+### 三级标题
 
-#### Heading 4
+#### 四级标题
 
-##### Heading 5
+##### 五级标题
 
-###### Heading 6
+###### 六级标题
 
-This is a [link to google](https://www.google.com).
+这是一个[谷歌链接](https://www.google.com).
 
-This is a wikilink (aka internal link) to [[note-properties]].
+这是 [[笔记属性]] 的维基链接（又名内部链接）。
 
-Here is an image:
-![image](../../attachments/foam-icon.png)
+这是一张图片：
+![图片](../../attachments/foam-icon.png)
 
-> this is a blockquote
-> it can span multiple lines
+> 这是块引用
+> 它可以跨越多行
 
-- list item
-- list item
-- list item
+- 项目清单
+- 项目清单
+- 项目清单
 
 1. One
 2. Two
 3. Three
 
-This text is **in bold** and this is *italic*.
+这段文字是**粗体**，这是*斜体*。
 
-The following is a horizontal rule
+下面是一条水平线
 
 ---
 
-This is a table:
+这是一张表格:
 | Column 1 | Column 2 |
 | -------- | -------- |
 | R1C1     | R1C2     |
 | R2C1     | R2C2     |
 
-You can `inline code` or
+你可以'内联代码'或
 
 ```text
-you can create
-code blocks
+你可以创造
+代码块
 ```

@@ -1,22 +1,22 @@
 # Graph目录可视化
 
-Foam comes with a graph visualization of your notes.
-To see the graph execute the `Foam: Show Graph` command.
+Foam 带有笔记的图形可视化。
+输入`Foam: Show Graph`命令查看图表。
 
-## Graph Navigation
+## 图形导航
 
-With the graph you can:
+使用图表，你可以：
 
-- highlight a node by hovering on it, to quickly see how it's connected to the rest of your notes
-- select one or more (by keeping `shift` pressed while selecting) nodes by clicking on them, to better understand the structure of your notes
-- navigate to a note by clicking on it while pressing `ctrl` or `cmd`
-- automatically center the graph on the currently edited note, to immediately see its connections
+- 通过将鼠标悬停在节点上来突出显示它，以快速查看它是如何连接到你的笔记的其余部分的
+- 通过单击节点来选择一个或多个（通过在选择时按住`shift`键）节点，以更好地理解笔记的结构
+- 按下`ctrl`或`cmd`的同时点击它，导航到一个笔记
+- 自动将当前的笔记放在图的中心，以立即查看其连接
 
-## Custom Graph Styles
+## 自定义图形样式
 
-By default, the Foam graph will use the VS Code theme, but it's possible to customize it with the `foam.graph.style` setting.
+默认情况下，泡沫图将使用 VS Code 主题，但可以使用 `foam.graph.style` 设置对其进行自定义。
 
-A sample configuration object is provided below, you can provide as many or as little configuration as you wish:
+下面提供了一个示例配置对象，你可以根据需要提供任意数量的配置：
 
 ```json
 "foam.graph.style": {
@@ -31,8 +31,8 @@ A sample configuration object is provided below, you can provide as many or as l
 }
 ```
 
-- `note` defines the color for regular nodes
-- `placeholder` defines the color for links that don't match any existing note. This is a [[placeholder]] because no file with such name exists (see [[wikilinks]] for more info).
-- `feature` shows an example of how you can use note types to customize the graph. It defines the color for the notes of type `feature`
-  - see [[note-properties]] for details
-  - you can have as many types as you want
+- `note` 定义了常规节点的颜色
+- `placeholder` 定义与任何现有笔记不匹配的链接的颜色。 这是一个 [[placeholder]] 因为不存在具有这样名称的文件（请参阅 [[维基链接]] 了解更多信息）。
+- `feature` 显示了如何使用笔记类型自定义图表的示例。 它定义了`feature`类型的笔记的颜色
+  - 详见 [[笔记属性]]
+  - 你可以拥有任意数量的类型
