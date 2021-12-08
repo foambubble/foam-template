@@ -36,7 +36,7 @@ Foam 使用标准 Markdown，并添加了一些改动：
 这是 [[笔记属性]] 的维基链接（又名内部链接）。
 
 这是一张图片：
-![图片](../../attachments/foam-icon.png)
+![图片](../attachments/foam-icon.png)
 
 > 这是块引用
 > 它可以跨越多行

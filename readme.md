@@ -1,4 +1,4 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+<img src="docs/attachments/foam-icon.png" width=100 align="left">
 
 # Foam
 
@@ -40,3 +40,11 @@
 你可能已经注意到，Issues已禁用。为了使项目易于维护，请将你的问题提交到主 Foam 存储库中：
 
 > <https://github.com/foambubble/foam>
+
+## 阅读完后
+
+可以将本业内容删除然后作为目录页面
+
+- [[子弹笔记]]
+- [[入门指南]]
+- [[待办清单]]

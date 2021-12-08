@@ -1,4 +1,8 @@
 {
+  "noteSync.enableNoteSync": false, // 只有这个设置了true，该插件才会生效，防止该插件全局生效
+  "noteSync.pullStatusMessage": "笔记正在下拉", // 当在下拉笔记时左下角显示的状态文案
+  "noteSync.finishStatusMessage": "笔记同步完成",
+  //
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
@@ -19,7 +23,7 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,
-  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.path": "${projectRoot}/docs/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "spellright.notificationClass": "warning",
