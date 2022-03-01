@@ -1,6 +1,5 @@
-title: Amir Pourmand Schedule!
+title: Foam Jekyll Template
 theme: jekyll-theme-primer
-
 
 baseurl: 
 
@@ -12,7 +11,7 @@ kramdown:
   syntax_highlighter: rouge
 
 readme_index:
-  enabled:          true
+  enabled: true
 
 repository: hikerpig/foam-jekyll-template
 
