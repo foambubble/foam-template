@@ -1,0 +1,27 @@
+title: Amir Pourmand Schedule!
+theme: jekyll-theme-primer
+
+
+baseurl: 
+
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+readme_index:
+  enabled:          true
+
+repository: hikerpig/foam-jekyll-template
+
+# Generate permalinks in format specified in: https://jekyllrb.com/docs/permalinks/#built-in-formats
+permalink: pretty
+
+plugins:
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-default-layout
+- jekyll-titles-from-headings
+- jekyll-relative-links
