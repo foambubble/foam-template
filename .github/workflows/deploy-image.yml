@@ -29,5 +29,6 @@ jobs:
       with:
         context: .
         push: true
-        file: {context}/publish/Dockerfile
         tags: amirpourmand/foam-template:latest
+        file: '{context}/publish/Dockerfile'
+
