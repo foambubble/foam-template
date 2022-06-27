@@ -26,6 +26,8 @@ And remember that you can always join our [Foam community on Discord](https://fo
 
 In order to use Github Pages, rename your project name to `username.github.io` then go to `Settings` and from there select `Pages`, change source to `master` and save!
 
+Also you have to go to `Actions` tab and enable it, if you haven't. 
+
 ## Docker Usage
 
 First, install docker using [this](https://docs.docker.com/get-docker/).
