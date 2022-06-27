@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:4.2.0
+FROM jekyll/jekyll
 Label MAINTAINER Amir Pourmand
 WORKDIR /srv/jekyll/
 ADD Gemfile /srv/jekyll/
