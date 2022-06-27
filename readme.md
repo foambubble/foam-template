@@ -22,6 +22,34 @@ To learn more about how to use **Foam**, read the [Recipes](https://foambubble.g
 
 And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
 
+## Github Pages
+
+In order to use Github Pages, rename your project name to `username.github.io` then go to `Settings` and from there select `Pages`, change source to `master` and save!
+
+## Docker Usage
+
+First, install docker using [this](https://docs.docker.com/get-docker/).
+
+### Using Prebuilt Image (Dockerhub)
+
+If you don't want to build the image and just want to run the website using built image (Recommended):
+```bash
+publish/dockerhub_run.sh
+```
+
+### Build Docker image locally
+But if you want to to build your image locally, you can use
+```bash
+publish/docker_build.sh
+```
+Then to run the image locally, use:
+```bash
+publish/docker_run
+```
+
+
+ 
+> Note that if you can not run the image and you come into error which says there is some problem with some Gems, just remove `Gemfile.lock`. Most probably, your error will be solved. 
 ## Using Foam
 
 We've created a few Bubbles (Markdown documents) to get you started.
