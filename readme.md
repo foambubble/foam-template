@@ -49,7 +49,6 @@ Then to run the image locally, use:
 publish/docker_run
 ```
 
-
 ## Using Foam
 
 We've created a few Bubbles (Markdown documents) to get you started.
