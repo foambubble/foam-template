@@ -48,8 +48,6 @@ publish/docker_run
 ```
 
 
- 
-> Note that if you can not run the image and you come into error which says there is some problem with some Gems, just remove `Gemfile.lock`. Most probably, your error will be solved. 
 ## Using Foam
 
 We've created a few Bubbles (Markdown documents) to get you started.
