@@ -26,7 +26,7 @@ Let's go through this to set up your repo:
 
 - [ ] To explore all the Foam settings, press `cmd+,`, then `Extensions > Foam`
 
-- [ ] Living within VS Code, Foam can be customized in many ways! Look at the [Foam Recipes](https://foambubble.github.io/foam/recipes/recipes) for ideas!
+- [ ] Living within VS Code, Foam can be customized in many ways! Look at the [Foam Recipes](https://foambubble.github.io/foam/user/recipes/recipes) for ideas!
 
 - [ ] Join the [Foam community on Discord](https://foambubble.github.io/join-discord/e), introduce yourself and leave a message on how you found Foam and how the onboarding went :) We are always keen to do better
 
