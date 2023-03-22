@@ -1,18 +1,20 @@
 # Daily Notes
 
-Daily notes allow you to quickly create and access notes for today.
+Daily notes allow you to quickly create and access a new notes file for each day. This is a surpisingly effective and increasingly common strategy to organize notes and manage events.
 
-Try it out, run the `Foam: Open Daily Note` command.
+View today's note file by running the `Foam: Open Daily Note` command, by using the shortcut `alt+d` (note: shortcuts can be [overridden](https://code.visualstudio.com/docs/getstarted/keybindings)), or by using [#snippets](#Snippets). The name, location, and title of daily notes files is [#configurable](#Configuration).
 
-## Shortcuts and Snippets
+## Roam-style Automatic Daily Notes
 
-You can quickly open today's daily note by pressing `alt+d`.
-You can also automatically open today's note via the `Foam › Open Daily Note: On Startup` setting.
+You can automatically open today's note on startup by setting the `Foam › Open Daily Note: On Startup` setting to `true`.
 
-You can also quickly create link to your daily notes, in the configured format, using [snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets).
+## Daily Note Templates
 
-Type `/today` and press `enter` to link to today's note.
-You can also write:
+Daily notes can also make use of [[Note Templates]], by defining a special `.foam/templates/daily-note.md` template.
+
+## Snippets
+
+Create a link to a recent daily note using [snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets). Type `/today` and press `enter` to link to today's note. You can also write:
 
 | Snippet      | Date          |
 | ------------ | ------------- |
@@ -25,9 +27,11 @@ You can also write:
 | `/-1m`       | one month ago |
 | `/+1y`       | in one year   |
 
-You get the idea ;)
-
 ## Configuration
+
+By default, Daily Notes will be created in a file called `yyyy-mm-dd.md` in the workspace's `journals` folder, with a heading `yyyy-mm-dd`.
+
+These settings can be overridden in your workspace or global `.vscode/settings.json` file, using the [**dateformat** date masking syntax](https://github.com/felixge/node-dateformat#mask-options):
 
 It's possible to customize path and heading of your daily notes, by following the [dateformat masking syntax](https://github.com/felixge/node-dateformat#mask-options).
 The following properties can be used:
@@ -40,3 +44,10 @@ The following properties can be used:
 ```
 
 The above configuration would create a file `journal/daily-note-2020-07-25.mdx`, with the heading `Journal Entry, Sunday, July 25`.
+
+> NOTE: It is possible to set the filepath of a daily note according to the date using the special [[note-properties]] configurable for [[Note Templates]]. Specifically see [[note-templates#Example of date-based|Example of date-based filepath]]. Using the template property will override any setting configured through `.vscode/settings.json`.
+
+## Extend Functionality (Weekly, Monthly, Quarterly Notes)
+
+Please see [[note-macros]]
+

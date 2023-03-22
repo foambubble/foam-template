@@ -1,4 +1,8 @@
-# Shortcut-List
+# Keyboard Shortcuts
+
+Here are some keyboard shortcuts you'll love when editing your notes.
+
+This works best if you can see the result in the preview panel, run the `Markdown: Open Preview to the Side` command.
 
 You can use either the name or the id to find each shortcut in the settings (File > Preferences > Keyboard Shortcuts) and find out what it is bound to on your system and change it according to your liking.
 

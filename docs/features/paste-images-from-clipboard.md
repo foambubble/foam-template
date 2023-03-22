@@ -1,6 +1,6 @@
 # Paste Images from Clipboard
 
-You can paste an image from the clipboard with `cmd+alt+v`.
+By installing the [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) extension, you can paste an image from the clipboard with `cmd+alt+v`.
 
 Images are automatically copied to the `/attachments` folder and a reference is added in the file where you pasted them.
 
@@ -10,5 +10,3 @@ To change the location where the image is created, change the `pasteImage.path` 
 
 - `${currentFileDir}`: save the image next to the file
 - `${currentFileDir}/images`: create an `images` directory next to the file and save the image there
-
-For more info check the [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) extension page.

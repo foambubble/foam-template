@@ -36,8 +36,9 @@ If you want to learn more about VS Code, check out their [website](https://code.
 You can see a few panels on the left, including:
 
 - `Outline`: this panel shows you the structure of the file based on the headings
-- `Tag Explorer`: This shows you the tags in your workspace, see [[tags-and-tag-explorer]] for more information on tags
+- `Tag Explorer`: This shows you the tags in your workspace, see [[tags]] for more information on tags
 
 ## Settings
 
-To view or change the settings in VS Code, press `cmd+,`
+To view or change the settings in VS Code, press `cmd+,` on Mac and `ctrl+,` on Windows/Linux.
+
