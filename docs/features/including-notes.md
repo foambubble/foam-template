@@ -1,0 +1,16 @@
+# Including notes in a note
+
+In some situations it might be useful to include the content of another note in your current note. Foam supports this displaying within the vscode environment. Note, this does not work out-of-the-box for your publishing solutions.
+
+## Including a note
+
+Including a note can be done by adding an `!` before a wikilink defintion. For example `![[wikilink]]`.
+
+## Custom styling
+
+Displaying the inclusion of notes allows for some custom styling, see [[custom-markdown-preview-styles]]
+
+## Future possibilities
+
+Work on this feature is evolving and progressing. See the [[inclusion-of-notes]] proposal for the current discussion.
+
