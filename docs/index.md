@@ -14,7 +14,7 @@ strategies for getting the most out of Foam. The full docs are included in the
 - [[recommended-extensions]]
 - [[creating-new-notes]]
 - [[write-notes-in-foam]]
-- [[sync-notes-with-soruce-control]]
+- [[sync-notes-with-source-control]]
 - [[keyboard-shortcuts]]
 
 ## Features

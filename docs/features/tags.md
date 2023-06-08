@@ -15,6 +15,10 @@ There are two ways of creating a tag:
 
 Tags can also be hierarchical, so you can have `#parent/child` such as #my-tag3/info.
 
+### Tag completion
+
+Typing the `#` character will launch VS Code's "Intellisense." This provider will show a list of possible tags that match the character. If you are editing in the frontmatter [[note-properties|note property]], you can invoke tag completion on the `tags:` line by either typing the `#` character, or using the ["trigger suggest"](https://code.visualstudio.com/docs/editor/intellisense) keybinding (usually `ctrl+space`). If the `#` is used in the frontmatter, it will be removed when the tag is inserted.
+
 ## Using *Tag Explorer*
 
 It's possible to navigate tags via the Tag Explorer panel. Expand the Tag Explorer view in the left side bar which will list all the tags found in current Foam environment. Then, each level of tags can be expanded until the options to search by tag and a list of all files containing a particular tag are shown.
@@ -33,7 +37,7 @@ It is possible to customize the way that tags look in the Markdown Preview panel
 
 > Note: the file path for the stylesheet will be relative to the currently open folder in the workspace when changing this setting for the current workspace. If changing this setting for the user, then the file path will be relative to your global [VSCode settings](https://code.visualstudio.com/docs/getstarted/settings).
 
-The end result will be a CSS file that looks similiar to the content below. Now you can make your tags standout in your note previews.
+The end result will be a CSS file that looks similar to the content below. Now you can make your tags standout in your note previews.
 
 ```css
 .foam-tag{
@@ -48,4 +52,7 @@ The end result will be a CSS file that looks similiar to the content below. Now 
 
 Given the power of backlinks, some people prefer to use them as tags.
 For example you can tag your notes about books with [[book]].
+
+[note-properties|note property]: note-properties.md "Note Properties"
+[graph-visualization]: graph-visualization.md "Graph Visualization"
 
