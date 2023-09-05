@@ -8,7 +8,9 @@ Including a note can be done by adding an `!` before a wikilink definition. For 
 
 ## Custom styling
 
-Displaying the inclusion of notes allows for some custom styling, see [[custom-markdown-preview-styles]]
+To modify how an embedded note looks and the scope of its content, see [[built-in-note-embedding-types]]
+
+For more fine-grained custom styling, see [[custom-markdown-preview-styles]]
 
 ## Future possibilities
 
