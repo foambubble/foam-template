@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Capture Notes With Drafts Pro
 
 With this #recipe you can create notes on your iOS device, which will automatically be imported into Foam.

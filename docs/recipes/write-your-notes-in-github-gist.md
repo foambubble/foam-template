@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Write your notes in GitHub Gist
 
 This #recipe will allow you to persist your notes in a GitHub repository, and automatically sync changes without needing to manually commit/push/pull, then GistPad might be an option worth exploring.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Writing Notes
 
 Notes are simple text files with some extra flavor, in the shape of Markdown syntax and support for extra properties (see [[note-properties]]).

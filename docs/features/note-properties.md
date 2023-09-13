@@ -1,5 +1,5 @@
 ---
-type: feature
+type: foam-docs
 keywords: hello world, bonjour
 tags: [hello, bonjour]
 ---
@@ -14,12 +14,12 @@ For example, for this file, we have:
 
 ```markdown
 ---
-type: feature
+type: foam-docs
 keywords: hello world, bonjour
 ---
 ```
 
-This sets the `type` of this document to `feature` and sets **three** keywords for the document: `hello`, `world`, and `bonjour`. The YAML parser will treat both spaces and commas as the separators for these YAML properties. If you want to use multi-word values for these properties, you will need to combine the words with dashes or underscores (i.e. instead of `hello world`, use `hello_world` or `hello-world`).
+This sets the `type` of this document to `foam-docs` and sets **three** keywords for the document: `hello`, `world`, and `bonjour`. The YAML parser will treat both spaces and commas as the separators for these YAML properties. If you want to use multi-word values for these properties, you will need to combine the words with dashes or underscores (i.e. instead of `hello world`, use `hello_world` or `hello-world`).
 
 > You can set as many custom properties for a document as you like, but there are a few [special properties](#special-properties) defined by Foam.
 

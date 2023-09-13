@@ -1,4 +1,5 @@
 ---
+type: foam-docs
 tags: my-tag1 my-tag2 my-tag3/notes
 ---
 

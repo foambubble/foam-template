@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Publish to Azure DevOps Wiki
 
 Publish your Foam workspace as an Azure DevOps wiki.

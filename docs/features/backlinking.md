@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Backlinking
 
 When using [[wikilinks]], you can find all notes that link to a specific note in the **Connections Explorer**

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Orphaned Notes
 
 Foam helps you to find orphans: notes that have neither forward links nor backlinks.

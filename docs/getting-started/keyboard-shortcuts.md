@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Keyboard Shortcuts
 
 Here are some keyboard shortcuts you'll love when editing your notes.

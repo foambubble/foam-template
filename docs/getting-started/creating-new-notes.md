@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Creating New Notes
 
 - Write out a new `[[wikilink]]` and `Cmd` + `Click` to create a new file and enter it.

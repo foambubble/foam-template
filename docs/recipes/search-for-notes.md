@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Search for Notes
 
 This #recipe contains tips on how to leverage VS Code search features.

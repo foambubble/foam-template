@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Frequently Asked Questions
 
 > ⚠️ Foam is still in preview. Expect the experience to be a little rough.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Graph Visualization
 
 Foam comes with a graph visualization of your notes.

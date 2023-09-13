@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Generate a site using Gatsby
 
 ## Using foam-gatsby-template

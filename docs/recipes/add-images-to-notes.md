@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Add images to your notes
 
 This #recipe allows you to paste images on to your notes.

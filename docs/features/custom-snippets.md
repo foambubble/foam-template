@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Adding Custom Snippets
 
 You can add custom snippets whilst the default set of snippets are decided by following the below steps:

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Publish to GitHub
 
 The standard [foam-template](https://github.com/foambubble/foam-template) is ready to be published to GitHub, and GitHub pages.

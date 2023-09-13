@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Katex Math Rendering
 
 Apart from using the method mentioned in [[math-support-with-mathjax]], we can also use KaTeX to render our math equations in Foam. The caveat is: we can't rely on GitHub Pages to host and deploy our website anymore, because the plugin we'll be using to let Jekyll support KaTeX doesn't play well together with GitHub Pages.

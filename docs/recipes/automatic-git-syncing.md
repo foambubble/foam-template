@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Automatically Sync with Git
 
 With this #recipe you can regularly commit and push to git, to keep your repo in always synched.

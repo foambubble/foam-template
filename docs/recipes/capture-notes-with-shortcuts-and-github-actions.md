@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Capture Notes With Shortcuts and GitHub Actions
 
 With this #recipe you can create notes on your iOS device, which will automatically be imported into Foam.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Using Foam
 
 Foam is a collection VS Code extensions and recipes that power up the editor

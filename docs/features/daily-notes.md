@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Daily Notes
 
 Daily notes allow you to quickly create and access a new notes file for each day. This is a surpisingly effective and increasingly common strategy to organize notes and manage events.

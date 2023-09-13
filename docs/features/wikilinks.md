@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Wikilinks
 
 Wikilinks are the internal links that connect the files in your knowledge base. (Also called `[[MediaWiki]]` links).

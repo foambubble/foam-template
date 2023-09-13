@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Pre-defined User Snippets
 
 This #recipe allows us to introduce Roam style commands to Foam, by using [VS Code Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets). Consider the below snippets:

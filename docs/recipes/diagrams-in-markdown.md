@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Diagrams in Markdown
 
 We have two alternative #recipe for displaying diagrams in markdown:

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Foam logging in VsCode
 
 The Foam extension logs details about what its doing in vscode's `Output` tab.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # GitHub Pages
 
 1. In VSCode workspace settings set `"foam.edit.linkReferenceDefinitions": "withoutExtensions"`

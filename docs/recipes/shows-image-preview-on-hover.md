@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Shows Image Preview on Hover
 
 This #recipe allows you to see a preview of an image on hover.

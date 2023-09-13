@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Custom Note Macros
 
 This #recipe allows you to create custom note macros.

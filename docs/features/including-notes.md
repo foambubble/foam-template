@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Including notes in a note
 
 In some situations it might be useful to include the content of another note in your current note. Foam supports this displaying within the vscode environment. Note, this does not work out-of-the-box for your publishing solutions.

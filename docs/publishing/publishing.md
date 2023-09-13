@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Publishing pages
 
 Foam pages can be published.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Markup Converter
 
 This #recipe allows you to convert any document into Markdown for storing them in your notes.

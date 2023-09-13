@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Take notes on mobile phones
 
 This #recipe offers solutions to taking Foam notes on the go.

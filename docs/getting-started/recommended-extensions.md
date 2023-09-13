@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Recommended Extensions
 
 These extensions defined in `.vscode/extensions.json` are automatically installed when you accept the workspace's recommended extensions.

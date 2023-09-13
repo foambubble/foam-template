@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Janitor
 
 To store your personal knowledge graph in markdown files instead of a database, we need some additional tooling to create and maintain relationships with notes.

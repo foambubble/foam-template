@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Sync notes with source control
 
 Source control is a way to precicely manage the history and content of a directory of files.

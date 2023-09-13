@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Link Reference Definitions
 
 When you use `[[wikilinks]]`, the [foam-vscode](https://github.com/foambubble/foam/tree/master/packages/foam-vscode) extension can automatically generate [Markdown Link Reference Definitions](https://spec.commonmark.org/0.29/#link-reference-definitions) at the bottom of the file. This is not needed to navigate your workspace with foam-vscode, but is useful for files to remain compatible with various Markdown tools (e.g. parsers, static site generators, VS code plugins etc), which don't support `[[wikilinks]]`.

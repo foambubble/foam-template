@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Note Templates
 
 Foam supports note templates which let you customize the starting content of your notes instead of always starting from an empty note.

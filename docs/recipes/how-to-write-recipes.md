@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # How to Write Recipes
 
 This is an example of how to structure a Recipe. The first paragraph or two should explain the purpose of the recipe succinctly, including why it's useful, if that's not obvious.

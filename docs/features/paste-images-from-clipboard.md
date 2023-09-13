@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Paste Images from Clipboard
 
 By installing the [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image) extension, you can paste an image from the clipboard with `cmd+alt+v`.

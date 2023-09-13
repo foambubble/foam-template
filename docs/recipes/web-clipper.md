@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Web Clipper
 
 This #recipe allows you to convert any web content into Markdown for storing them in your notes.

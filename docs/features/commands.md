@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Foam Commands
 
 Foam has various commands that you can explore by calling the command palette and typing "Foam".

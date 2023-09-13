@@ -1,4 +1,5 @@
 ---
+type: foam-docs
 layout: mathjax
 ---
 

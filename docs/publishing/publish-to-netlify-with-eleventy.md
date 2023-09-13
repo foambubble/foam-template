@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Publish to Netlify with Eleventy
 
 You can use [foam-eleventy-template](https://github.com/juanfrank77/foam-eleventy-template) to generate a static site with [Eleventy](https://www.11ty.dev/), and host it online on [Netlify](https://www.netlify.com/).

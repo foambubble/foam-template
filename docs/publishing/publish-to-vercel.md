@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Publish to Vercel
 
 This #recipe shows you how to deploy the default Foam website template to Vercel.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Spell Checking
 
 There are many spell checking extensions for VS Code.

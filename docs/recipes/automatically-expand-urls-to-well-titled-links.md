@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Automatically Expand URLs to Well-Titled Links
 
 With this #recipe you can convert a link to a fully-formed Markdown link, using the page's title as a display name. Useful for citations and creating link collections.

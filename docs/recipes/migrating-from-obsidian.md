@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Migrating from Obsidian (stub)
 
 **[[todo]] This [[roadmap]] item needs more specification work.**

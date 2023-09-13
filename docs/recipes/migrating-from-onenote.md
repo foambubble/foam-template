@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Migrating from OneNote
 
 This guide mostly duplicates the instructions at the repo for the PowerShell [script](https://github.com/nixsee/ConvertOneNote2MarkDown).

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Command Line Interface
 
 Create a CLI tool to allow running common Foam commands. These may include:

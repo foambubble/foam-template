@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # GitLab Pages
 
 You don't have to use GitHub to serve Foam pages. You can also use GitLab.

@@ -1,3 +1,6 @@
+---
+type: foam-docs
+---
 # Resource Filters
 
 Resource filters can be passed to some Foam commands to limit their scope.
