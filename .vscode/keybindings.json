@@ -1,5 +1,11 @@
-// This file does not get automatically applied
-// @TODO: Make it work or document how to copy to user keybindings
+// This file is not automatically applied. 
+// To enable it, follow these steps:
+
+// 1. Open the Command Palette: `cmd + shift + p`
+// 2. Start typing "keyboard shortcuts"
+// 3. Select "Preferences: Open Keyboard Shortcuts (JSON)"
+// 4. Paste the snippet below or add it to the existing shortcuts array:
+
 [
   {
     "key": "cmd+shift+n",
