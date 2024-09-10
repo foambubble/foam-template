@@ -29,6 +29,9 @@ on:
 jobs:
   store_data:
     runs-on: ubuntu-latest
+    # If you encounter a 403 error from a workflow, try adding the following as suggested in this SO accepted answer: https://stackoverflow.com/questions/75880266/cant-make-push-on-a-repo-with-github-actions
+    # permissions:
+          # contents: write
     steps:
     - uses: actions/checkout@master
     - uses: anglinb/foam-capture-action@main
