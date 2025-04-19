@@ -1,19 +1,21 @@
 <!-- omit in toc -->
+
 # Recipes
 
 A #recipe is a guide, tip or strategy for getting the most out of your Foam workspace!
 
-- [Contribute](#contribute)
-- [Take smart notes](#take-smart-notes)
-- [Discover](#discover)
-- [Organise](#organise)
-- [Write](#write)
-- [Version control](#version-control)
-- [Publish](#publish)
-- [Collaborate](#collaborate)
-- [Workflow](#workflow)
-- [Creative ideas](#creative-ideas)
-- [Other](#other)
+- [Recipes](#recipes)
+  - [Contribute](#contribute)
+  - [Take smart notes](#take-smart-notes)
+  - [Discover](#discover)
+  - [Organise](#organise)
+  - [Write](#write)
+  - [Version control](#version-control)
+  - [Publish](#publish)
+  - [Collaborate](#collaborate)
+  - [Workflow](#workflow)
+  - [Creative ideas](#creative-ideas)
+  - [Other](#other)
 
 ## Contribute
 
@@ -75,11 +77,11 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 - Publish using community templates
   - [[publish-to-netlify-with-eleventy]] by [@juanfrank77](https://github.com/juanfrank77)
   - [[generate-gatsby-site]] by [@mathieudutour](https://github.com/mathieudutour) and [@hikerpig](https://github.com/hikerpig)
-  
 - Make the site your own by [[publish-to-github]].
 - Render math symbols, by either
   - adding client-side [[math-support-with-mathjax]] to the default [[publish-to-github-pages]] site
   - adding a custom Jekyll plugin to support [[math-support-with-katex]]
+- Export note to PDF [[export-to-pdf]]
 
 ## Collaborate
 
