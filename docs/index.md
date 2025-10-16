@@ -1,33 +1,50 @@
 # Using Foam
 
-Foam is a collection VS Code extensions and recipes that power up the editor
-into a full-blown note taking system. This folder contains user documentation
-describing how to get started using Foam, what its main features are, and
-strategies for getting the most out of Foam. The full docs are included in the
-`foam-template` repo that most users start from.
+Foam is a personal knowledge management system built on [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com/). It helps you organize research, create discoverable notes, and publish your knowledge.
 
 > See also [[frequently-asked-questions]].
 
+## Key Features
+
+- **Wikilinks** - Connect thoughts with `[[double bracket]]` syntax
+- **Embeds** - Include content from other notes with `![[note]]` syntax
+- **Backlinks** - Automatically discover connections between notes
+- **Graph visualization** - See your knowledge network visually
+- **Daily notes** - Capture timestamped thoughts
+- **Templates** - Standardize note creation
+- **Tags** - Organize and filter content
+
+## Why Choose Foam?
+
+- **Free and open source** - No subscriptions or vendor lock-in
+- **Own your data** - Notes stored as standard Markdown files
+- **VS Code integration** - Leverage powerful editing and extensions
+- **Git-based** - Version control and collaboration built-in
+
+Foam is like a bathtub: _What you get out of it depends on what you put into it._
+
 ## Getting Started
 
+- [[installation]]
 - [[get-started-with-vscode]]
 - [[recommended-extensions]]
-- [[creating-new-notes]]
-- [[write-notes-in-foam]]
-- [[sync-notes-with-source-control]]
+- [[first-workspace]]
+- [[note-taking-in-foam]]
+- [[sync-notes]]
 - [[keyboard-shortcuts]]
 
 ## Features
 
 - [[wikilinks]]
+- [[embeds]]
 - [[tags]]
 - [[backlinking]]
 - [[daily-notes]]
-- [[including-notes]]
+- [[embeds]]
 - [[spell-checking]]
-- [[graph-visualization]]
+- [[graph-view]]
 - [[note-properties]]
-- [[note-templates]]
+- [[templates]]
 - [[paste-images-from-clipboard]]
 - [[custom-markdown-preview-styles]]
 - [[link-reference-definitions]]
