@@ -27,12 +27,12 @@ This sets the `type` of this document to `feature` and sets **three** keywords f
 
 Some properties have special meaning for Foam:
 
-| Name    | Description                                                                                                                                                                      |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `title` | will assign the name to the note that you will see in the graph, regardless of the filename or the first heading (also see how to [[note-taking-in-foam]])                       |
+| Name    | Description                                                                                                                                                             |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `title` | will assign the name to the note that you will see in the graph, regardless of the filename or the first heading (also see how to [[note-taking-in-foam]])              |
 | `type`  | can be used to style notes differently in the graph (also see [[graph-view]]). The default type for a document is `note` unless otherwise specified with this property. |
-| `tags`  | can be used to add tags to a note (see [[tags]])                                                                                                                                 |
-| `alias` | can be used to add aliases to the note. an alias will show up in the link autocompletion                                                                                         |
+| `tags`  | can be used to add tags to a note (see [[tags]])                                                                                                                        |
+| `alias` | can be used to add aliases to the note. an alias will show up in the link autocompletion                                                                                |
 
 For example:
 

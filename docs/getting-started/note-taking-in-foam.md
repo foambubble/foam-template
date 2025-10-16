@@ -111,7 +111,7 @@ This embeds the "Key Principles" section from the Project Management note.
 
 ### Tags
 
-Organize your content with [[docs-v2/user/features/tags]]:
+Organize your content with [[tags]]:
 
 ```markdown
 #productivity #learning #foam

@@ -46,7 +46,6 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 - Add and explore [[tags]]
 - Create [[templates]]
 - Find [[orphans]]
-- Use custom [[note-macros]] to create weekly, monthly etc. notes
 - Draw [[diagrams-in-markdown]]
 - Prettify your links, [[automatically-expand-urls-to-well-titled-links]]
 - Style your environment with [[custom-markdown-preview-styles]]
