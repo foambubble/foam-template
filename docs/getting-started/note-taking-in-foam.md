@@ -233,3 +233,6 @@ Now that you understand note-taking basics:
 3. **[Set up templates](../features/templates.md)** - Create reusable note structures
 4. **[Use daily notes](../features/daily-notes.md)** - Establish a daily capture routine
 
+[navigation]: navigation.md 'Navigation in Foam'
+[tags]: ../features/tags.md 'Tags'
+

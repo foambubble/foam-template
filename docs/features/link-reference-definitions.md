@@ -23,6 +23,8 @@ Related to [[Data Science]] and [[Statistics]].
 
 Related to [[Data Science]] and [[Statistics]].
 
+[Data Science]: data-science.md 'Data Science'
+[Statistics]: statistics.md 'Statistics'
 ```
 
 ## Enabling Reference Definitions
@@ -56,6 +58,3 @@ If you are using your notes only within Foam, you can keep definitions `off` (al
 - **Publishing platforms** - Compatible with GitHub Pages, Jekyll, etc.
 - **Future-proofing** - Not locked into Foam-specific format
 - **Team collaboration** - Others can read notes without Foam
-
-
-
