@@ -4,5 +4,32 @@
   {
     "key": "cmd+shift+n",
     "command": "foam-vscode.create-note"
+  },
+  {
+    "key": "alt+n",
+    "mac": "cmd+alt+n",
+    "command": "editor.action.insertSnippet",
+    "when": "!editorReadonly && editorLangId == markdown",
+    "args": {
+        "name": "Permanent Note (Zettel)"
+    }
+  },
+  {
+    "key": "alt+l",
+    "mac": "cmd+alt+l",
+    "command": "editor.action.insertSnippet",
+    "when": "!editorReadonly && editorLangId == markdown",
+    "args": {
+        "name": "Literature Note"
+    }
+  },
+  {
+    "key": "alt+f",
+    "mac": "cmd+alt+f",
+    "command": "editor.action.insertSnippet",
+    "when": "!editorReadonly && editorLangId == markdown",
+    "args": {
+        "name": "Fleeting Note (Inbox)"
+    }
   }
 ]
