@@ -10,6 +10,8 @@ Let's go through this to set up your repo:
 
 - [ ] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wikilink. You can go back with `ctrl+-`. Here, go to your [[inbox]]
 
+- [ ] You can link to a specific block within a note by adding `^my-id` at the end of any paragraph, then referencing it as `[[note#^my-id]]`. Use `![[note#^my-id]]` to embed just that block. See [[block-anchors]].
+
 - [ ] to see how your notes are connected, execute the `Foam: Show Graph` command. See [[graph-visualization]].
 
 - [ ] #tags can be used to further organize your content. Look at the `Tag Explorer` view on the left panel to find and navigate the tags in your knowledge base. See [[tags-and-tag-explorer]].
@@ -47,3 +49,11 @@ Here they are:
 
 A special mention goes to [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) and [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) which have now been replaced by our own implementation but were foundational to Foam's beginnings.
 
+[get-started-with-vscode]: docs/getting-started/get-started-with-vscode.md "Using Foam with VS Code Features"
+[inbox]: inbox.md "Inbox"
+[block-anchors]: docs/features/block-anchors.md "Block Anchors"
+[spell-checking]: docs/features/spell-checking.md "Spell Checking"
+[paste-images-from-clipboard]: docs/features/paste-images-from-clipboard.md "Paste Images from Clipboard"
+[daily-notes]: docs/features/daily-notes.md "Daily Notes"
+[todo]: todo.md "Todo"
+[link-reference-definitions]: docs/features/link-reference-definitions.md "Link Reference Definitions"
