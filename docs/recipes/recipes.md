@@ -41,7 +41,7 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 ## Write
 
 - Link documents with [[wikilinks]].
-- Use shortcuts for [[creating-new-notes]]
+- Create notes with custom [[commands]] and key bindings
 - Instantly create and access your [[daily-notes]]
 - Add and explore [[tags]]
 - Create [[templates]]
@@ -108,3 +108,40 @@ Thought of a recipe but don't see a category for them? Add them here and we'll o
 
 _See [[contribution-guide]] and [[how-to-write-recipes]]._
 
+[contribution-guide]: ../../dev/contribution-guide.md "Contribution Guide"
+[how-to-write-recipes]: how-to-write-recipes.md "How to Write Recipes"
+[todo]: ../../dev/todo.md "Todo"
+[web-clipper]: web-clipper.md "Web Clipper"
+[markup-converter]: markup-converter.md "Markup Converter"
+[graph-visualization]: ../features/graph-visualization.md "Graph Visualization"
+[backlinking]: ../features/backlinking.md "Backlinking"
+[unlinked-references]: ../../dev/unlinked-references.md "Unlinked references (stub)"
+[wikilinks]: ../features/wikilinks.md "Wikilinks"
+[commands]: ../features/commands.md "Foam Commands"
+[daily-notes]: ../features/daily-notes.md "Daily Notes"
+[tags]: ../features/tags.md "Tags"
+[note-templates]: ../features/templates.md "Note Templates"
+[orphans]: ../tools/orphans.md "Orphaned Notes"
+[diagrams-in-markdown]: diagrams-in-markdown.md "Diagrams in Markdown"
+[automatically-expand-urls-to-well-titled-links]: automatically-expand-urls-to-well-titled-links.md "Automatically Expand URLs to Well-Titled Links"
+[custom-markdown-preview-styles]: ../features/custom-markdown-preview-styles.md "Custom Markdown Preview Styles"
+[add-images-to-notes]: add-images-to-notes.md "Add images to your notes"
+[shows-image-preview-on-hover]: shows-image-preview-on-hover.md "Shows Image Preview on Hover"
+[good-first-task]: ../../dev/good-first-task.md "Good First Task"
+[including-notes]: ../features/including-notes.md "Including notes in a note"
+[write-your-notes-in-github-gist]: write-your-notes-in-github-gist.md "Write your notes in GitHub Gist"
+[automatic-git-syncing]: automatic-git-syncing.md "Automatically Sync with Git"
+[publish-to-github-pages]: ../publishing/publish-to-github-pages.md "GitHub Pages"
+[publish-to-gitlab-pages]: ../publishing/publish-to-gitlab-pages.md "GitLab Pages"
+[publish-to-azure-devops-wiki]: ../publishing/publish-to-azure-devops-wiki.md "Publish to Azure DevOps Wiki"
+[publish-to-vercel]: ../publishing/publish-to-vercel.md "Publish to Vercel"
+[publish-to-netlify-with-eleventy]: ../publishing/publish-to-netlify-with-eleventy.md "Publish to Netlify with Eleventy"
+[generate-gatsby-site]: ../publishing/generate-gatsby-site.md "Generate a site using Gatsby"
+[generate-material-for-mkdocs-site]: generate-material-for-mkdocs-site.md "Generate a site using the Material for MkDocs theme"
+[publish-to-github]: ../publishing/publish-to-github.md "Publish to GitHub"
+[math-support-with-mathjax]: ../publishing/math-support-with-mathjax.md "Math Support"
+[math-support-with-katex]: ../publishing/math-support-with-katex.md "Katex Math Rendering"
+[export-to-pdf]: export-to-pdf.md "Export to PDF"
+[real-time-collaboration]: real-time-collaboration.md "Real-time Collaboration"
+[capture-notes-with-drafts-pro]: capture-notes-with-drafts-pro.md "Capture Notes With Drafts Pro"
+[capture-notes-with-shortcuts-and-github-actions]: capture-notes-with-shortcuts-and-github-actions.md "Capture Notes With Shortcuts and GitHub Actions"
