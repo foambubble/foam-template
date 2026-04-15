@@ -37,6 +37,7 @@ Foam is like a bathtub: _What you get out of it depends on what you put into it.
 ## Features
 
 - [[wikilinks]]
+- [[footnotes]]
 - [[block-anchors]]
 - [[embeds]]
 - [[foam-queries]]
