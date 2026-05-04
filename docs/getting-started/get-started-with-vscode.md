@@ -245,7 +245,8 @@ Look for them in the [VS Code Marketplace](https://marketplace.visualstudio.com/
 With VS Code mastery, explore advanced Foam topics:
 
 1. **[[recommended-extensions]]** - See complementary extensions to improve your note taking experience
-2. **[[publishing]]** - Share your knowledge base
+2. **[[publish-to-github-pages]]** - Share your knowledge base
 
-
-
+[tags]: ../features/tags.md 'Tags'
+[recommended-extensions]: recommended-extensions.md 'Recommended Extensions'
+[publish-to-github-pages]: ../publishing/publish-to-github-pages.md 'GitHub Pages'

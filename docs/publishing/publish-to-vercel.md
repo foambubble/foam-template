@@ -21,7 +21,7 @@ First, we'll need to add a `_config.yml` at the root directory. This is the Jeky
 title: Foam
 # All the plugins we will be installing now that we won't be using GitHub Pages
 plugins:
-  - jekyll-katex  # optional
+  - jekyll-katex # optional
   - jekyll-default-layout
   - jekyll-relative-links
   - jekyll-readme-index
@@ -81,3 +81,5 @@ Finally, if all is successful, Vercel will show the detected framework: Jekyll. 
 
 And now, Vercel will take care of building and rendering our foam workspace each time on push. Vercel will publish our site to `xxx.vercel.app`, we can also define a custom domain name for our Vercel website.
 
+[publish-to-github-pages]: publish-to-github-pages.md 'GitHub Pages'
+[math-support-with-katex]: math-support-with-katex.md 'Katex Math Rendering'

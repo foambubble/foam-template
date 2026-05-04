@@ -49,3 +49,7 @@ alias: alias1, alias2
 
 There also exists properties that are even more specific to Foam templates, see [[templates#Metadata]] for more info.
 
+[tags]: tags.md "Tags"
+[graph-view]: ../features/graph-view.md "Graph Visualization"
+[note-taking-in-foam]: ../getting-started/note-taking-in-foam.md "Note-Taking in Foam"
+[templates#Metadata]: templates.md#Metadata "Note Templates"
