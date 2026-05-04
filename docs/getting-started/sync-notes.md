@@ -10,3 +10,4 @@ There are (too) many ways to commit your changes to source control:
 - Using GitDoc for [[automatic-git-syncing]]
 - Whatever way you like to do it (CLI?)
 
+[automatic-git-syncing]: ../recipes/automatic-git-syncing.md 'Automatically Sync with Git'

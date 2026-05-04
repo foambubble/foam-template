@@ -14,3 +14,4 @@ See [[link-reference-definitions]] for more information.
 
 You can edit `assets/css/style.scss` to change how published pages look.
 
+[link-reference-definitions]: ../features/link-reference-definitions.md 'Link Reference Definitions'
