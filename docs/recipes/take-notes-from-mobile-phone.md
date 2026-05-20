@@ -21,7 +21,7 @@ Pros
 
 Cons
 
-- Doesn't generate link reference lists (but this is ok, since [[workspace-janitor]] as a GitHub action can solve this)
+- Doesn't generate link reference lists (but this is ok, since [[workspace-lint]] as a GitHub action can solve this)
 - Not as sleek as Apple/Google notes, some keyboard state glitching on Android, etc.
 - Lack of control over roadmap. Established product with a paid plan, so may not be open to Foam-supportive changes and additions that don't benefit most users.
 
@@ -56,6 +56,6 @@ If such an app was worth building, it would have to have the following features:
 - Ability to search and navigate forward links and back links (only in paid GitJournal version)
 - Killer feature that makes it the best note taking tool for Foam (?)
 
-Given the effort vs reward ratio, it's a low priority for core team, but if someone wants to work on this, we can provide support! Talk to us on the #mobile-apps channel on [Foam Discord](https://foambubble.github.io/join-discord/w).
+Given the effort vs reward ratio, it's a low priority for core team, but if someone wants to work on this, we can provide support! Talk to us on the #mobile-apps channel on [Foam Discord](https://discord.com/invite/HV2tn2FpEk).
 
-[workspace-janitor]: ../tools/workspace-janitor.md 'Janitor'
+[workspace-lint]: ../tools/workspace-lint.md 'Lint'
