@@ -190,7 +190,7 @@ async function createNote({ trigger, foam, resolver }) {
 
 JavaScript templates must return an object with:
 
-- `content` (required): The note content as a string
+- `content` (required): The note content as a string. Foam variables in it (e.g. `${FOAM_TITLE}`) are resolved like in a Markdown template
 - `filepath` (required): Custom file path for the note
   - NOTE: the path must be within the workspace.
     - A relative path will be resolved based on the `onRelativePath` command configuration.
@@ -281,7 +281,7 @@ For example, `FOAM_DATE_YEAR` has the same behaviour as VS Code's `CURRENT_YEAR`
 
 By default, prefer using the `FOAM_DATE_` versions. The datetime used to compute the values will be the same for both `FOAM_DATE_` and VS Code's variables, with the exception of the creation notes using the daily note template.
 
-For more nitty-gritty details about the supported date formats, [see here](https://github.com/foambubble/foam/blob/main/packages/foam-vscode/src/services/variable-resolver.ts).
+For more nitty-gritty details about the supported date formats, [see here](https://github.com/foambubble/foam/blob/main/packages/foam-core/src/templates/variable-resolver.ts).
 
 #### Relative daily notes
 
@@ -317,6 +317,8 @@ When creating notes in any other scenario, the `FOAM_DATE_` values are computed 
 Foam-specific variables (e.g. `$FOAM_TITLE`) can be used within template metadata. However, VS Code snippet variables are ([currently](https://github.com/foambubble/foam/pull/655)) not supported.
 
 #### `filepath` attribute
+
+> In a [restricted workspace](https://code.visualstudio.com/docs/editor/workspace-trust), notes must be created inside the workspace: a `filepath` that points outside it is refused. Trust the workspace to allow it.
 
 It is possible to vary the `filepath` value based on the current date using the `FOAM_DATE_*` variables. This is especially useful for the [[daily-notes]] template if you wish to organize by years, months, etc. Below is an example of a daily-note template metadata section that will create new daily notes under the `journal/YEAR/MONTH-MONTH_NAME/` filepath. For example, when a note is created on November 15, 2022, a new file will be created at `C:\Users\foam_user\foam_notes\journal\2022\11-Nov\2022-11-15-daily-note.md`. This method also respects the creation of daily notes relative to the current date (i.e. `/+1d`).
 
