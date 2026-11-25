@@ -2,7 +2,7 @@
 
 The graph view transforms your notes into a visual network, revealing connections between ideas. To open it, run the `Foam: Show Graph` command.
 
-Files and tags appear as nodes; links between files and file-to-tag relationships are the edges. A node grows in size with the number of connections it has.
+Files and tags appear as nodes; links between files and file-to-tag relationships are the edges. Notes are circles that grow with the number of connections they have. Tags are diamonds, placeholders (links to notes that don't exist yet) are dashed rings, and attachments and images are hollow rings.
 
 ### The `Show Graph` command
 
@@ -104,6 +104,8 @@ Open a named view via a keybinding in `keybindings.json`:
   "args": { "view": "Journal" }
 }
 ```
+
+Each view remembers what you change in the graph panel (filters, groups, sliders), so tune your `Journal` view once and its shortcut will always bring it back that way. If you later edit the view in `foam.graph.views`, press **Reset view** at the bottom of the panel to pick up the new settings.
 
 You can also pass a config inline without a named view:
 

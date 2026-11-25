@@ -47,6 +47,8 @@ Foam provides intelligent autocomplete when creating links:
 3. **Use arrow keys** to navigate suggestions
 4. **Press Enter** to insert the selected link
 
+No suggestions appear in front matter, where Foam doesn't read links.
+
 ## The Foam Graph
 
 For a visual overview of your knowledge base, Foam offers a [[graph-view]]. This feature renders your notes as nodes and the links between them as connections, creating an interactive map of your thoughts.
@@ -123,7 +125,7 @@ You can find placeholders by looking at the `Placeholders` treeview.
 
 When you rename a note file:
 
-1. **Use VS Code's rename function** (`F2` key)
+1. **Use VS Code's rename function** (`F2` key) — on the file, or on the note's name inside a `[[wikilink]]` to it
 2. **Foam automatically updates** all links to that note
 3. **Check the "Problems" panel** for any issues
 
